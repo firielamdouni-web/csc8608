@@ -380,13 +380,5 @@ Ces actions couvrent UI (points FG/BG, contraintes bbox), données (jeu d'entra�
 
 Ces signaux mesurables permettent d'alerter sur régressions, de diagnostiquer causes (modèle vs données vs infra) et d'automatiser alertes/priorités.
 
-## 7.c — Remise finale (check-list)
 
-```bash
-git add TP1
-git commit -m "TP1: final report, app and tests (Exercises 1-7)"
-git push origin main
-git tag -a TP1 -m "TP1 final submission"
-git push origin TP1
-```
 
