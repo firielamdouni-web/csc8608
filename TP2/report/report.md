@@ -1,7 +1,9 @@
 # Rapport CI : Génération d'image
 
 **Étudiant:** AMDOUNI Firiel
+
 **Date:** 30 janvier 2026  
+
 **Cours:** CSC 8608 - Concepts avancés et applications du deep learning
 
 ---
@@ -123,11 +125,12 @@ python experiments.py
 ![test](../inputs/my_product.jpg)
 
 **Images générées :**
+
 ![alt text](../outputs/i2i_run07_strength035.png)
 ![alt text](../outputs/i2i_run08_strength060.png)
 ![alt text](../outputs/i2i_run09_strength085.png)
 
-###  Analyse qualitative Img2Img (strengquestion 4.c :th)
+###  Analyse qualitative Img2Img 
 
 **Strength 0.35 :**
 
