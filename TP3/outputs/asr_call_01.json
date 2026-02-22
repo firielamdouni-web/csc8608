@@ -1,0 +1,65 @@
+{
+  "audio_path": "TP3/data/call_01.wav",
+  "model_id": "openai/whisper-small",
+  "device": "cuda",
+  "audio_duration_s": 32.28,
+  "elapsed_s": 1.9386799335479736,
+  "rtf": 0.060058238337917395,
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_s": 1.218,
+      "end_s": 1.822,
+      "text": "Hello."
+    },
+    {
+      "segment_id": 1,
+      "start_s": 1.954,
+      "end_s": 3.934,
+      "text": "Thank you for your calling customer support."
+    },
+    {
+      "segment_id": 2,
+      "start_s": 4.098,
+      "end_s": 13.31,
+      "text": "My name is Alex and I will help you today. I'm calling about an order that arrived damaged. The package was delivered yesterday, but the screen is crooked."
+    },
+    {
+      "segment_id": 3,
+      "start_s": 13.73,
+      "end_s": 22.526,
+      "text": "I would like a replacement as soon as possible. The other number is AX19735."
+    },
+    {
+      "segment_id": 4,
+      "start_s": 22.722,
+      "end_s": 25.15,
+      "text": "You can reach me at John.Smith"
+    },
+    {
+      "segment_id": 5,
+      "start_s": 25.25,
+      "end_s": 26.974,
+      "text": "at example.com"
+    },
+    {
+      "segment_id": 6,
+      "start_s": 27.074,
+      "end_s": 28.798,
+      "text": "Also my phone number is"
+    },
+    {
+      "segment_id": 7,
+      "start_s": 28.898,
+      "end_s": 31.262,
+      "text": "5550199"
+    },
+    {
+      "segment_id": 8,
+      "start_s": 31.49,
+      "end_s": 32.28,
+      "text": "Thank you."
+    }
+  ],
+  "full_text": "Hello. Thank you for your calling customer support. My name is Alex and I will help you today. I'm calling about an order that arrived damaged. The package was delivered yesterday, but the screen is crooked. I would like a replacement as soon as possible. The other number is AX19735. You can reach me at John.Smith at example.com Also my phone number is 5550199 Thank you."
+}
